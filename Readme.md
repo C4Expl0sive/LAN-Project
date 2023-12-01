@@ -6,7 +6,7 @@ This repository contains the documentation for the LAN design project.
 
 The repository includes the following files:
 
-- `Отчет.docx` - Main report document with the LAN design and research
+- `ПЗ.docx` - Main report document with the LAN design and research
 - `Проект физического уровня.vsd` - Visio diagram with the physical layer design
 - `Проект сетевого уроня.pkt` - Cisco Packet Tracer file with a model of designed LAN
 - `Схема сетевого уровня.png` - Schema of modeled LAN exported from Packet Tracer  
